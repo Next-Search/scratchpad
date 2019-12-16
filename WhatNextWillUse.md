@@ -33,3 +33,8 @@ Heck, we figure if we mention cryptocurrency enough times its bound to attract a
 
 # Blockchain
 Throwing another buzzword in here but for serious reasons. We think that using the blockchain could be an excellent way to authenticate and validate web content and search rankings...more on this later.
+
+# Identity
+As will be seen elsewhere in our proposal, authenticating identity will play an important role in the way the search engine operates.
+
+[Keybase](https://keybase.io) looks interesting, not least because [Chris Coyne](@malgorithms) is there and his previous work on [OkCupid](https://okcupid.com/) is quite inspirational.
