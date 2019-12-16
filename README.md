@@ -2,7 +2,7 @@
 We have grown accustomed to the mediocrity of web search engine's results. This proposal, really a Request For Comment (RFC) outlines a better way to do search - an open, fair, balanced approach.
 
 # Does Web Search Truly Need an Overhaul?
-We have the massive powerhouse of [Google](https://google.com/, [Microsoft's Bing](https://bing.com/) maintains some market share. International search engines sometimes dominate their markets and [DuckDuckGo](https://duckduckgo.com/) offers search with privacy included. Do we really need an overhaul of web search? Is there room for another competitor? Won't Google simply appropriate any true innovations negating the need for nextsearch?
+We have the massive powerhouse of [Google](https://google.com/), [Microsoft's Bing](https://bing.com/) maintains some market share. International search engines sometimes dominate their markets and [DuckDuckGo](https://duckduckgo.com/) offers search with privacy included. Do we really need an overhaul of web search? Is there room for another competitor? Won't Google simply appropriate any true innovations negating the need for nextsearch?
 
 We'll discuss each of these questions - for now lets focus on the *significant* reasons web search needs an overhaul.
 
