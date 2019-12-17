@@ -8,5 +8,9 @@ In this document we will outline the current search landscape to the best of our
 4. [Yandex](https://yandex.com/) - Russion Search Engine.
 
 # Interesting Alternative Players
-- [Mojeek](https://www.mojeek.com/) - Built from the ground up (not using existing search results or common software), based in the UK.
-- [Yippy](https://yippy.com/) - Powered by IBM Watson.
+- [DuckDuckGo](https://duckduckgo.com/) - Probably the best known alternative search engine, quite popular due to its privacy-centric nature.
+- [Mojeek](https://www.mojeek.com/) - Built from the ground up (not using existing search results or common software), based in the UK, uses its own search index.
+- [Yippy](https://yippy.com/) - Powered by IBM Watson, formerly Clusty.
+- [Ecosia](https://ecosia.org/).
+- [Qwant](https://qwant.com/) - Uses its own search index, EU based, privacy centric.
+- [Dogpile](https://dogpile.com/) - One of the better known metasearch engines.
