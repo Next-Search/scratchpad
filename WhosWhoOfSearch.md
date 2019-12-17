@@ -1,0 +1,2 @@
+- Matt Wells - Founder/developer of [Gigablast](https://gigablast.com/), previously worked for Infoseek.
+- Marc Smith - Founder/developer of [Mojeek](https://mojeek.com/).
