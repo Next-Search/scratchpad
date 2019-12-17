@@ -14,6 +14,10 @@ We've highlighted a few moments in search engine history which are specifically 
 - 2008 - DuckDuckGo is launched.
 - 2009 - Google launches Social Search in Google Labs.
 - 2010 - Blekko which offers greater query control through slashtags becomes available.
+- 2011 - Google, Yahoo, and Microsoft announce Schema.org.
+
 
 # Wikipedia
 - [Timeline of Web Search Engines](https://en.wikipedia.org/wiki/Timeline_of_web_search_engines)
+- [Timeline of Google Search](https://en.wikipedia.org/wiki/Timeline_of_Google_Search)
+- [Web Search Engine](https://en.wikipedia.org/wiki/Web_search_engine)
