@@ -4,3 +4,5 @@
   - Unfortunately, this term is quite confusing, as it has been used in a number of different ways including:
     - Search which is focused on indexing and returning from social web accounts.
     - Search which is collaborative in nature with results improving over time.
+- [Collaborative Search Engine](https://en.wikipedia.org/wiki/Collaborative_search_engine) - "...let users combine their efforts in information retrieval (IR) activities, share information resources collaboratively using knowledge tags, and allow experts to guide less experienced people through their searches."
+
