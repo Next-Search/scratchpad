@@ -4,3 +4,5 @@ There have been so many search engines - big ones, little ones, niche and genera
 In this document we will briefly mention a number of these predecessors and, where helpful, explain why we believe individual endeavors were unsuccessful and how we believe we can overcome similar problems.
 
 # Wikia
+
+# Blekko
