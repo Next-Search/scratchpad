@@ -6,3 +6,6 @@ In this document we will briefly mention a number of these predecessors and, whe
 # Wikia
 
 # Blekko
+Technically Blekko didn't die, it was acquired by IBM, who in their wisdom closed Blekko. The lesson here is one seen often with web search engines: acquisition usually means death.
+
+We don't think there is anything particularly wrong with being acquired or having acquisition as an end game - but that isn't what nextsearch is about...we'll be looking to flesh out exactly how we'll ensure this in the future.
