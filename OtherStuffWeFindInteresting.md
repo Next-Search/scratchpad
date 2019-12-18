@@ -1,0 +1,1 @@
+- [searcx](https://searx.me/) - an open source metasearch engine with a focus on privacy.
