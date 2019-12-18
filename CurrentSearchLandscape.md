@@ -16,3 +16,4 @@ In this document we will outline the current search landscape to the best of our
 - [Dogpile](https://dogpile.com/) - One of the better known metasearch engines.
 - [YaCy](https://yacy.net/) - Decentralized, open source search engine.
 - [Gigablast](http://gigablast.com/) - Decentralized, open source search engine. [Source code](https://github.com/gigablast/open-source-search-engine) appears to be static since 2017.
+- [Presearch](https://presearch.io/) - Made a big splash due to its blockchain focus but haven't seen much development, appears to primarily search other engines at this juncture.
