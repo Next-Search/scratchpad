@@ -14,3 +14,4 @@ In this document we will outline the current search landscape to the best of our
 - [Ecosia](https://ecosia.org/).
 - [Qwant](https://qwant.com/) - Uses its own search index, EU based, privacy centric.
 - [Dogpile](https://dogpile.com/) - One of the better known metasearch engines.
+- [YaCy](https://yacy.net/) - Decentralized, open source search engine.
