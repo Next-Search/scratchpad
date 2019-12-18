@@ -1,1 +1,2 @@
 - [searcx](https://searx.me/) - an open source metasearch engine with a focus on privacy.
+- [open semantic search](https://www.opensemanticsearch.org/) - open source, can use Elasticsearch or Solr, collaborative.
