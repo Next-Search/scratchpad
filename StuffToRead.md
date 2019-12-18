@@ -1,0 +1,1 @@
+- [Meredith Ringel Morris](https://cs.stanford.edu/~merrie/) has written fairly extensively on collaborative search.
