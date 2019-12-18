@@ -15,6 +15,7 @@ We've highlighted a few moments in search engine history which are specifically 
 - 2009 - Google launches Social Search in Google Labs.
 - 2010 - Blekko which offers greater query control through slashtags becomes available.
   - 2015 - Blekko is acquired by IBM and shut down.
+- 2011 - Launch of SearcTeam, a collaborative search engine, by Zakta.
 - 2011 - Google, Yahoo, and Microsoft announce Schema.org.
 
 
