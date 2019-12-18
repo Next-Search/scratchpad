@@ -7,7 +7,7 @@ In this document we will outline the current search landscape to the best of our
 3. [Baidu](https://baidu.com/) - Chinese Search Engine.
 4. [Yandex](https://yandex.com/) - Russion Search Engine.
 
-# Interesting Alternative Players
+# Alternative Players
 - [DuckDuckGo](https://duckduckgo.com/) - Probably the best known alternative search engine, quite popular due to its privacy-centric nature.
 - [Mojeek](https://www.mojeek.com/) - Built from the ground up (not using existing search results or common software), based in the UK, uses its own search index.
 - [Yippy](https://yippy.com/) - Powered by IBM Watson, formerly Clusty.
@@ -15,3 +15,4 @@ In this document we will outline the current search landscape to the best of our
 - [Qwant](https://qwant.com/) - Uses its own search index, EU based, privacy centric.
 - [Dogpile](https://dogpile.com/) - One of the better known metasearch engines.
 - [YaCy](https://yacy.net/) - Decentralized, open source search engine.
+- [Gigablast](http://gigablast.com/) - Decentralized, open source search engine. [Source code](https://github.com/gigablast/open-source-search-engine) appears to be static since 2017.
