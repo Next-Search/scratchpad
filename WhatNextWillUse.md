@@ -10,6 +10,9 @@ There are several robust search engine options currently available in the open s
 - [Apache Lucene](https://lucene.apache.org/).
 - [Elasticsearch](https://www.elastic.co/).
 
+# Web Crawling
+While we'll be using sources such as Common Crawl to seed our index we also expect to do indexing of our own. For this purpose, [Apache Nutch](http://nutch.apache.org/) seems a wise choice.
+
 # Gamification
 We think [Discourse](https://www.discourse.org/) has created a robust gamification / authority system which is worth analyzing and adapting.
 
