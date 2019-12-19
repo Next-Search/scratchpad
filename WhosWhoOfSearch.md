@@ -1,4 +1,5 @@
 - Emmanuel Benazera - Developer of [Seeks](https://beniz.github.io/seeks/) a distributed metasearch engine with research and collaborative functionality.
+- Gil Elbaz - Founder/chairman of [CommonCrawl](http://commoncrawl.org/).
 - Aaron Flin - Founder/developer of [Dogpile](https://dogpile.com/).
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
 - Rich Skrenta - Founder of Blekko, acquired by IBM in 2015.
