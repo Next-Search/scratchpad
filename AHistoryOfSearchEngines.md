@@ -12,6 +12,8 @@ We've highlighted a few moments in search engine history which are specifically 
 - 2005 - Google begins using user's web histories to deliver better results.
 - 2008 - Launch of Wikia Search by Wikia, a company owned in part by Jimmy Wales, co-founder of Wikipedia.
 - 2008 - DuckDuckGo is launched.
+- 2008 - Wikia Search launches pre-alpha.
+  - 2009 - Wikia Search project is abandoned.
 - 2009 - Google launches Social Search in Google Labs.
 - 2010 - Blekko which offers greater query control through slashtags becomes available.
   - 2015 - Blekko is acquired by IBM and shut down.
