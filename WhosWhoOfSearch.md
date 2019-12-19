@@ -1,4 +1,5 @@
 - Emmanuel Benazera - Developer of [Seeks](https://beniz.github.io/seeks/) a distributed metasearch engine with research and collaborative functionality.
+- Doug Cutting - Founded [Lucene](http://lucene.apache.org/), co-founder of both [Nutch](http://nutch.apache.org/) and [Hadoop](https://hadoop.apache.org/).
 - Gil Elbaz - Founder/chairman of [CommonCrawl](http://commoncrawl.org/).
 - Aaron Flin - Founder/developer of [Dogpile](https://dogpile.com/).
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
