@@ -26,3 +26,4 @@ We've highlighted a few moments in search engine history which are specifically 
 - [Timeline of Google Search](https://en.wikipedia.org/wiki/Timeline_of_Google_Search)
 - [Web Search Engine](https://en.wikipedia.org/wiki/Web_search_engine)
 - [List of Search Engines](https://en.wikipedia.org/wiki/List_of_search_engines)
+- [Defunct Internet Search Engines](https://en.wikipedia.org/wiki/Category:Defunct_internet_search_engines)
