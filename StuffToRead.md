@@ -1,4 +1,6 @@
 - Aaron Wall. [Search Engine History](http://www.searchenginehistory.com/).
+- Britney Muller and the Moz Staff have written a Beginner's Guide to SEO that includes a chapter on [How Search Engines Work](https://moz.com/beginners-guide-to-seo/how-search-engines-operate).
 - [Meredith Ringel Morris](https://cs.stanford.edu/~merrie/) has written fairly extensively on collaborative search.
   - Book: Collaborative Web Search: Who, What, Where, When, and Why, co-written with Jaime Tevan.
-- Britney Muller and the Moz Staff have written a Beginner's Guide to SEO that includes a chapter on [How Search Engines Work](https://moz.com/beginners-guide-to-seo/how-search-engines-operate).
+- W. Bruce Croft, Donald Metzler, Trevor Strohman. [Search Engines: Information Retrieval in Practice](http://www.search-engines-book.com/).
+- Sergey Brin, Lawrence Page. [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html).
