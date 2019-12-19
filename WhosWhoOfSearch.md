@@ -4,6 +4,7 @@
 - Gil Elbaz - Founder/chairman of [CommonCrawl](http://commoncrawl.org/).
 - Aaron Flin - Founder/developer of [Dogpile](https://dogpile.com/).
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
+- Peter Norvig - Director of Research at [Google](https://google.com/).
 - Rich Skrenta - Founder of Blekko, acquired by IBM in 2015.
 - Marc Smith - Founder/developer of [Mojeek](https://mojeek.com/).
 - Adam Tauber - Developer of [searx](https://searx.me).
