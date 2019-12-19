@@ -1,2 +1,3 @@
 - [Meredith Ringel Morris](https://cs.stanford.edu/~merrie/) has written fairly extensively on collaborative search.
+  - Book: Collaborative Web Search: Who, What, Where, When, and Why, co-written with Jaime Tevan.
 - Britney Muller and the Moz Staff have written a Beginner's Guide to SEO that includes a chapter on [How Search Engines Work](https://moz.com/beginners-guide-to-seo/how-search-engines-operate).
