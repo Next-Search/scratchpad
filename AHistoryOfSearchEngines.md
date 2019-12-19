@@ -14,6 +14,8 @@ We've highlighted a few moments in search engine history which are specifically 
 - 2008 - DuckDuckGo is launched.
 - 2008 - Wikia Search launches pre-alpha.
   - 2009 - Wikia Search project is abandoned.
+- 2008 - Google SearchWiki becomes available.
+  - 2010 - SearchWiki is discontinued.
 - 2009 - Google launches Social Search in Google Labs.
 - 2010 - Blekko which offers greater query control through slashtags becomes available.
   - 2015 - Blekko is acquired by IBM and shut down.
