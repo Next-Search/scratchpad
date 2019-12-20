@@ -7,7 +7,7 @@
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
 - Martijn Koster - Founder of Aliweb, an early web search engine; creator of the Robots Exclusion Standard.
 - Peter Norvig - Director of Research at [Google](https://google.com/).
-- Rich Skrenta - Founder of Blekko, acquired by IBM in 2015.
+- Rich Skrenta - Founder of Blekko, acquired by IBM in 2015. Also founded ODP/DMOZ.
 - Marc Smith - Founder/developer of [Mojeek](https://mojeek.com/).
 - Adam Tauber - Developer of [searx](https://searx.me).
 - Matt Wells - Founder/developer of [Gigablast](https://gigablast.com/), previously worked for Infoseek.
