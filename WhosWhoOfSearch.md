@@ -2,6 +2,7 @@
 - Mike Cafarella - Co-founder of [Nutch](http://nutch.apache.org) and [Hadoop](https://hadoop.apache.org).
 - Doug Cutting - Founded [Lucene](http://lucene.apache.org/), co-founder of both [Nutch](http://nutch.apache.org/) and [Hadoop](https://hadoop.apache.org/).
 - Gil Elbaz - Founder/chairman of [CommonCrawl](http://commoncrawl.org/).
+- David Filo - Co-founder of [Yahoo](https://yahoo.com/).
 - Aaron Flin - Founder/developer of [Dogpile](https://dogpile.com/).
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
 - Martijn Koster - Founder of Aliweb, an early web search engine; creator of the Robots Exclusion Standard.
@@ -10,3 +11,4 @@
 - Marc Smith - Founder/developer of [Mojeek](https://mojeek.com/).
 - Adam Tauber - Developer of [searx](https://searx.me).
 - Matt Wells - Founder/developer of [Gigablast](https://gigablast.com/), previously worked for Infoseek.
+- Jerry Yang - Co-founder of [Yahoo](https://yahoo.com/).
