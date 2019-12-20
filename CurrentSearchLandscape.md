@@ -9,6 +9,7 @@ In this document we will outline the current search landscape to the best of our
 5. [DuckDuckGo](https://duckduckgo.com/) - Probably the best known alternative search engine, quite popular due to its privacy-centric nature.
 
 # Alternative Players
+- [Carrot2](https://project.carrot2.org/) - Open Source search engine that uses clustering.
 - [Dogpile](https://dogpile.com/) - One of the better known metasearch engines.
 - [Ecosia](https://ecosia.org/).
 - [Exactseek](http://www.exactseek.com/)
