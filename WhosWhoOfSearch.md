@@ -6,7 +6,9 @@
 - Aaron Flin - Founder/developer of [Dogpile](https://dogpile.com/).
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
 - Martijn Koster - Founder of Aliweb, an early web search engine; creator of the Robots Exclusion Standard.
+- Michael Mauldin - Founder of Lycos in 1994.
 - Peter Norvig - Director of Research at [Google](https://google.com/).
+- Brian Pinkerton - Founded WebCrawler in 1994.
 - Rich Skrenta - Founder of Blekko, acquired by IBM in 2015. Also founded ODP/DMOZ.
 - Marc Smith - Founder/developer of [Mojeek](https://mojeek.com/).
 - Adam Tauber - Developer of [searx](https://searx.me).
