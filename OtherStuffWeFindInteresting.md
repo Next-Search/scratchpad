@@ -7,4 +7,4 @@
 - [W3C](http://w3.org/) - standards organization.
   - [W3C Data Activity](https://www.w3.org/2013/data/).
   - [W3C Web & Telecommunications](https://www.w3.org/Telco/).
-  
+  - [W3C Semantic Web](https://www.w3.org/standards/semanticweb/).
