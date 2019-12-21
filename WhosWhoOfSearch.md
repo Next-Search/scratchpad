@@ -7,6 +7,7 @@
 - Wolf Garbe - Founded [Faroo](https://en.wikipedia.org/wiki/FAROO), a peer to peer search engine, that appears to be discontinued.
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
 - Martijn Koster - Founder of Aliweb, an early web search engine; creator of the Robots Exclusion Standard.
+- Greg Lindahl - Formerly CTO of Blekko.
 - Michael Mauldin - Founder of Lycos in 1994.
 - Peter Norvig - Director of Research at [Google](https://google.com/).
 - Brian Pinkerton - Founded WebCrawler in 1994.
