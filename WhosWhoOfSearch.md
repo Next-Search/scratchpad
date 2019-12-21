@@ -4,6 +4,7 @@
 - Gil Elbaz - Founder/chairman of [CommonCrawl](http://commoncrawl.org/).
 - David Filo - Co-founder of [Yahoo](https://yahoo.com/).
 - Aaron Flin - Founder/developer of [Dogpile](https://dogpile.com/).
+- Wolf Garbe - Founded [Faroo](https://en.wikipedia.org/wiki/FAROO), a peer to peer search engine, that appears to be discontinued.
 - Sundar Kadayam - Founder of [Zakta](https://zakta.com/) and [SearchTeam](https://searchteam.com/).
 - Martijn Koster - Founder of Aliweb, an early web search engine; creator of the Robots Exclusion Standard.
 - Michael Mauldin - Founder of Lycos in 1994.
