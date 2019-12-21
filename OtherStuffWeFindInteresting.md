@@ -4,3 +4,7 @@
 - [diigo](https://diigo.com/) - Allows one to annotate, cache, tag, highlight, bookmark, etc. sites and search through these at a future time.
 - [sphinx](http://www.sphinxsearch.com/) - Open source search engine written in C++, used by a number of large sites.
 - [terrier](http://terrier.org/) - open source, written in Java.
+- [W3C](http://w3.org/) - standards organization.
+  - [W3C Data Activity](https://www.w3.org/2013/data/).
+  - [W3C Web & Telecommunications](https://www.w3.org/Telco/).
+  
