@@ -12,5 +12,6 @@
 - Rich Skrenta - Founder of Blekko, acquired by IBM in 2015. Also founded ODP/DMOZ.
 - Marc Smith - Founder/developer of [Mojeek](https://mojeek.com/).
 - Adam Tauber - Developer of [searx](https://searx.me).
+- Gabriel Weinberg - Founder/CEO of [DuckDuckGo](https://duckduckgo.com/).
 - Matt Wells - Founder/developer of [Gigablast](https://gigablast.com/), previously worked for Infoseek.
 - Jerry Yang - Co-founder of [Yahoo](https://yahoo.com/).
