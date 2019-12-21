@@ -10,3 +10,4 @@
   - [W3C Semantic Web](https://www.w3.org/standards/semanticweb/).
 - [WHATWG](https://whatwg.org/) - standards organization.
   - [Storage Standard](https://storage.spec.whatwg.org/)
+- [IEEE](https://www.ieee.org/) - technical professional organization, also creates standards.
